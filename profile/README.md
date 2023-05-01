@@ -2,7 +2,7 @@
 
 ## 👥 Team Members
 
-| Stundent ID  | Name                         | University                           |
+| Student ID   | Name                         | University                           |
 |--------------|------------------------------|--------------------------------------|
 | M169DKX3919  | Lana Saiful Aqil             | Universitas Gadjah Mada              |
 | M181DSY3229  | Dea Alifia Maharani Siregar  | Universitas Indonesia                |
